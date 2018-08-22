@@ -1,0 +1,13 @@
+￼
+
+* Xi: feature
+* Mi: mean (avarage) value of x (feature)
+* Si: range of the feature (max - min) or you can set si as the standard deviation of the feature.
+
+Xi = (Xi - Mi) / Si
+
+X2(2) = 5184
+M2 = (7921 + 5184 + 8836 + 4761) / 4 = 6675.5
+S2 = 8836 - 4761 = 4075
+
+=> X2(2) = (5184 - 6675.5) / 4075 = -0.36601227
