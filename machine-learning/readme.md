@@ -1,8 +1,8 @@
-##Machine Learning
+## Machine Learning
 
 (https://www.coursera.org/learn/machine-learning)
 
-###Week 1: 
+### Week 1: 
 - Introduction
     - What is ML?
     - Supervised Learning
@@ -18,7 +18,7 @@
     - Matrix Multiplication Properties
     - Inverse and Transpose
 
-###Week 2:
+### Week 2:
 - Installing Octave tool
 - Multivariate Linear Regression
     - Multiple Features
